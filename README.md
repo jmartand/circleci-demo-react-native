@@ -1,7 +1,7 @@
 # CircleCI Demo React Native App
 
 [![CircleCI](https://circleci.com/gh/CircleCI-Public/circleci-demo-react-native.svg?style=svg)](https://circleci.com/gh/CircleCI-Public/circleci-demo-react-native)
-
+Tested by Martand
 ## Building and running locally
 
 1. Run `yarn` to install the JS dependencies.
