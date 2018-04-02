@@ -14,7 +14,7 @@
 ### Running the iOS app in the iOS simulator
 
 This requires Xcode 9 or newer.
-
+Martand
 1. Run `bundle install` in the `ios` directory to install all
    dependencies.
 2. Run `yarn run ios` to start the app in the iOS simulator.
